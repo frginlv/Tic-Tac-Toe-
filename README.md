@@ -1,4 +1,4 @@
-# This repo conataines a Tic Tac Toe game that is made with Python + Tkinter , with the help of some tutos on youtube (video on the channel : Kenny Yip Coding).
+# This repo conataines a Tic Tac Toe game that is made with Python + Tkinter.
 
 ----------------
 
