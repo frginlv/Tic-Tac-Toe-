@@ -6,13 +6,13 @@
 
 ### On Linux or MacOs : (Run these command in the terminal)
 
-- git clone https://github.com/frginlv/Tic-Tac-Toe-.git
+- git clone https://github.com/frginlv/Tic-Tac-Toe.git
 - cd Tic-Tac-Toe
 - python3 main.py
 
 ### On Windows : (Run these command in the terminal)
 
-- git clone https://github.com/frginlv/Tic-Tac-Toe-.git
+- git clone https://github.com/frginlv/Tic-Tac-Toe.git
 - cd Tic-Tac-Toe
 - python main.py
 
